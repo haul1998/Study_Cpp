@@ -1,0 +1,8 @@
+﻿  cMonster.cpp
+  cPlayer.cpp
+D:\C++ 게임클래스 part.2\25~28강\Project25\Project25\cPlayer.h(53,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  main.cpp
+  TextRPG.cpp
+D:\C++ 게임클래스 part.2\25~28강\Project25\Project25\cPlayer.h(53,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  코드를 생성하고 있습니다...
+  Project25.vcxproj -> D:\C++ 게임클래스 part.2\25~28강\Project25\x64\Debug\Project25.exe

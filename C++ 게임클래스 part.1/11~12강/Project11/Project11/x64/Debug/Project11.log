@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\C++ 게임클래스 part.1\11~12강\Project11\Project11\main.cpp(190,7): warning C4101: 'nStar' :참조되지 않은 지역 변수입니다.
+D:\C++ 게임클래스 part.1\11~12강\Project11\Project11\main.cpp(12,6): warning C4101: 'nDArray' :참조되지 않은 지역 변수입니다.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  Project11.vcxproj -> D:\C++ 게임클래스 part.1\11~12강\Project11\x64\Debug\Project11.exe

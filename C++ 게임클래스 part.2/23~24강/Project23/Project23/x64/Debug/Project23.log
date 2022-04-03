@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(17,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(99,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(99,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(101,80): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(102,79): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++ 게임클래스 part.2\Project23\Project23\main.cpp(154,55): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  Project23.vcxproj -> D:\C++ 게임클래스 part.2\Project23\x64\Debug\Project23.exe

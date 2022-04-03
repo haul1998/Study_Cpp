@@ -1,0 +1,3 @@
+Src : 소스(source)의 약자
+Dst / Dest : Destination의 약자
+

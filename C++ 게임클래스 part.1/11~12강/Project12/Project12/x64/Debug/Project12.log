@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\C++ 강의 전 기초\11~12강\Project12\Project12\main.cpp(41,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stdafxcpp.cpp
+  코드를 생성하고 있습니다...
+  Project12.vcxproj -> D:\C++ 강의 전 기초\11~12강\Project12\x64\Debug\Project12.exe

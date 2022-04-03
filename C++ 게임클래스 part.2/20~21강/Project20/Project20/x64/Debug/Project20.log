@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++ 게임클래스 part.2\20~21강\Project20\Project20\main.cpp(37,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++ 게임클래스 part.2\20~21강\Project20\Project20\main.cpp(234,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project20.vcxproj -> D:\C++ 게임클래스 part.2\20~21강\Project20\x64\Debug\Project20.exe
